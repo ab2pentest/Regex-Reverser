@@ -2,14 +2,25 @@
 ![Logo](img/banner.png)
 
 
-# Regex-Reverser
+# Regex Reverser
 
-This tool helps you to reverse any regex and gives you the opposite/allowed: letters,numerics and symbols.
+1) This is a GUI python3 tool.
 
-## Screenshots
+2) This tool helps you to reverse any regex and gives you the opposite/allowed: letters,numerics and symbols.
 
-![App Screenshot](Screenshot.png)
+3) You may find it helpful in CTFs :wink:.
 
+## Example/Screenshot
+
+Regex Pattern: `[0-9a-zA-Z/_.]+`
+
+In `Reverse Mode`:
+
+![Reverse Mode](img/Screenshot_Reverse_Mode.png)
+
+In `Normal Mode`:
+
+![Normal Mode](img/Screenshot_Normal_Mode.png)
 
 ## Usage
 
@@ -26,6 +37,6 @@ pip install PyQt5
     
 ## Authors
 
-- Original Coder [@Kadnass-Dz](https://www.github.com/kadnass-dz)
+- Original Coder [Kadnass-Dz](https://www.github.com/kadnass-dz)
 
-- Idea/Modified [@ab2pentest](https://github.com/ab2pentest)
+- Idea/Modified [AB2](https://github.com/ab2pentest)
