@@ -16,11 +16,11 @@ Regex Pattern: `[0-9a-zA-Z/_.]+`
 
 In `Reverse Mode`:
 
-![Reverse Mode](img/Screenshot_Reverse_Mode.png)
+![Normal Mode](img/Screenshot_Normal_Mode.png)
 
 In `Normal Mode`:
 
-![Normal Mode](img/Screenshot_Normal_Mode.png)
+![Reverse Mode](img/Screenshot_Reverse_Mode.png)
 
 ## Usage
 
